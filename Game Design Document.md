@@ -102,7 +102,7 @@ Draw your imagination of this game. What does this game look like?
 ●   Add images of the game scenes to show each of the playing and non-playing characters at least once.  
 
  ![](C:\Users\admin\Pictures\Capture.PNG)
- the image atched here is uploaded saprately
+The image attached here is uploaded saprately.
 
 THE ACTUALL GAME WILL BE MORE ATTRACTIVE!!
 
