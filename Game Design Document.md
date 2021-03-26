@@ -59,7 +59,7 @@ Fill up the following document
 
 | Number | Character Name | What can this  character do?                                 |
 | ------ | -------------- | ------------------------------------------------------------ |
-| 1      | SNAKE          | IT WILL MOVE WHEN USER WILL TOUCH THE SREEN OR USE ARROW KEYS |
+| 1      | SNAKE          | IT WILL MOVE WHEN USER WILL TOUCH THE SCREEN OR USE ARROW KEYS |
 | 2      |                |                                                              |
 | 3      |                |                                                              |
 | 4      |                |                                                              |
